@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PokemonLab</string>
+    <string name="weight_label">"Weight: "</string>
+    <string name="height_label">"Height: "</string>
+    <string name="HP">"HP: "</string>
+    <string name="no_connection">You do not have internet at the moment</string>
+    <string name="valid_connection">"Getting Pokedex information on "</string>
+    <string name="attack">"Attack: "</string>
+    <string name="defense">"Defense: "</string>
+    <string name="s_attack">"Special Attack: "</string>
+    <string name="s_defense">"Special Defense: "</string>
+    <string name="speed">"Speed: "</string>
+    <string name="b_xp">"Base Experience: "</string>
+    <string name="height_short">"H: "</string>
+    <string name="weight_short">"W: "</string>
+    <string name="number">"No. "</string>
+</resources>
